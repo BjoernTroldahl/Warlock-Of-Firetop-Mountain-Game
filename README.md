@@ -17,6 +17,8 @@ Maya Bordum — game and level design, Cinemachine dolly track setup, voice acti
  
 Frederik Stappert — project management, R&D and QA
 
+A full playthrough of the game can be seen [here](https://www.youtube.com/watch?v=iAP-rPcfHho) on YouTube.
+
 <img src="https://img.youtube.com/vi/iAP-rPcfHho/0.jpg" alt="Skeleton" width="1280" height="720">
 
 ## How to install and use
