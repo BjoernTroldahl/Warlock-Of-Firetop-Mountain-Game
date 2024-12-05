@@ -1,23 +1,23 @@
 # Warlock-Of-Firetop-Mountain-Game
- A school project that I made as part of a 6 person team over the course of 4 months. 
- It is a choice–driven branching narrative game made with Unity 2021.3.9f1, based on the classic choose-your-own-adventure book “The Warlock of Firetop Mountain”.
- Version control was done with Plastic SCM, but I uploaded the project here on GitHub as well, for the sake of documentation.
+A school project that I made as part of a 6 person team over the course of 4 months. 
+It is a choice–driven branching narrative game made with Unity 2021.3.9f1, based on the classic choose-your-own-adventure book “The Warlock of Firetop Mountain”.
+Version control was done with Plastic SCM, but I uploaded the project here on GitHub as well, for the sake of documentation.
 
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iAP-rPcfHho/0.jpg)](https://www.youtube.com/watch?v=iAP-rPcfHho)
+### Our roles on the team were as follows:
 
- ### Our roles on the team were as follows:
+Freya Gade — lead programmer, Cinemachine dolly track setup and voice acting
+ 
+Bjørn Troldahl (me) — assistant programmer, Cinemachine dolly track setup, voice acting, sound designer and QA
+ 
+Julius Winther — animation, shaders, Cinemachine dolly track setup and voice acting
+ 
+Nickolai Jensen — game and level design, animation, shaders and voice acting
+ 
+Maya Bordum — game and level design, Cinemachine dolly track setup, voice acting and QA
+ 
+Frederik Stappert — project management, R&D and QA
 
- Freya Gade — lead programmer, Cinemachine dolly track setup and voice acting
- 
- Bjørn Troldahl (me) — assistant programmer, Cinemachine dolly track setup, voice acting, sound designer and QA
- 
- Julius Winther — animation, shaders, Cinemachine dolly track setup and voice acting
- 
- Nickolai Jensen — game and level design, animation, shaders and voice acting
- 
- Maya Bordum — game and level design, Cinemachine dolly track setup, voice acting and QA
- 
- Frederik Stappert — project management, R&D and QA
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iAP-rPcfHho/0.jpg)](https://www.youtube.com/watch?v=iAP-rPcfHho)
 
 ## How to install and use
 
