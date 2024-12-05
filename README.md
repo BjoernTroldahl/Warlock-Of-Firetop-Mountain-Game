@@ -1,7 +1,9 @@
 # Warlock-Of-Firetop-Mountain-Game
- A school project that I made in collaboration with 5 other people. 
- Choice driven branching narrative game made with Unity 2021.3.9f1.
- Version control was done with Plastic SCM, but I have also uploaded the project here on GitHub for the sake of documentation.
+ A school project that I made as part of a 6 person team over the course of 4 months. 
+ It is a choice–driven branching narrative game made with Unity 2021.3.9f1, based on the classic choose-your-own-adventure book “The Warlock of Firetop Mountain”.
+ Version control was done with Plastic SCM, but I uploaded the project here on GitHub as well, for the sake of documentation.
+
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iAP-rPcfHho/0.jpg)](https://www.youtube.com/watch?v=iAP-rPcfHho)
 
  ### Our roles on the team were as follows:
 
@@ -16,3 +18,16 @@
  Maya Bordum — game and level design, Cinemachine dolly track setup, voice acting and QA
  
  Frederik Stappert — project management, R&D and QA
+
+## How to install and use
+
+Step 1: Download this GitHub repository as a ZIP-file and unzip it into a folder.
+
+Step 2: Go to Builds → Windows → x64 and then double click the MED5-Interactive-Storytelling-502.exe file to run the game.
+
+Step 3: Select whether you want to play with or without atmosphere in the game (atmosphere provides the most full game experience)
+
+Step 4: Enter a random participant number and then click the Start button.
+
+Step 5: Enjoy the game! When you reach the black screen at the end, the game is over and you can safely exit and close the application.
+
