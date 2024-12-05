@@ -1,0 +1,340 @@
+ParticipantID: 1
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 2
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 3
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 4
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 5
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 6
+Condition: With atmosphere
+Talk
+Help the man up
+Attack the giant
+Venture right
+Save the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 7
+Condition: Without atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 8
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 9
+Condition: Without atmosphere
+Attack
+Leave him
+Attack the giant
+Venture right
+Leave the ghoul
+Drink the water
+Hand Tiles
+Take the Money
+ParticipantID: 10
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 11
+Condition: Without atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 12
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 13
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 14
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 15
+Condition: Without atmosphere
+Attack
+Leave him
+Attack the giant
+Venture right
+Leave the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 31
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 32
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture right
+Leave the ghoul
+Venture on
+Sun Tiles
+Take the Money
+ParticipantID: 33
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 34
+Condition: Without atmosphere
+ParticipantID: 34
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 35
+Condition: Without atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture right
+Leave the ghoul
+Venture on
+Sun Tiles
+Take the Book
+ParticipantID: 36
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 37
+Condition: Without atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 38
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 39
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 40
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Venture on
+Sun Tiles
+Take the Money
+ParticipantID: 41
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Money
+ParticipantID: 42
+Condition: With atmosphere
+Attack
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 43
+Condition: Without atmosphere
+Attack
+Leave him
+Attack the giant
+Venture left
+Leave the ghoul
+Drink the water
+Sun Tiles
+Take the Money
+ParticipantID: 44
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Venture on
+Sun Tiles
+Take the Money
+ParticipantID: 45
+Condition: Without atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture left
+Leave the ghoul
+Venture on
+Hand Tiles
+Take the Book
+ParticipantID: 0
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Leave the ghoul
+Drink the water
+Sun Tiles
+Take the Money
+ParticipantID: 0
+Condition: With atmosphere
+Talk
+Help the man up
+Sneak by giant
+Venture right
+Save the ghoul
+Drink the water
+Sun Tiles
+Take the Book
+ParticipantID: 1
+Condition: With atmosphere
+Attack
+Leave him
+Attack the giant
+Venture left
+Leave the ghoul
+Drink the water
+Hand Tiles
+Take the Book
+ParticipantID: 1
+Condition: With atmosphere
+Attack
+Leave him
+Attack the giant
+Venture left
+ParticipantID: 2
+Condition: Without atmosphere
