@@ -27,7 +27,7 @@ Step 1: Download this GitHub repository as a ZIP-file and unzip it into a folder
 
 Step 2: Go to Builds → Windows → x64 and then double click the MED5-Interactive-Storytelling-502.exe file to run the game.
 
-Step 3: Select whether you want to play with or without atmosphere in the game (atmosphere provides the most full game experience)
+Step 3: Select whether you want to play with or without atmosphere in the game (WITH atmosphere provides the most immersive experience).
 
 Step 4: Enter a random participant number and then click the Start button.
 
