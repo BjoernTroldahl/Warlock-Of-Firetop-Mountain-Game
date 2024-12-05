@@ -5,7 +5,7 @@ Version control was done with Plastic SCM, but I uploaded the project here on Gi
 
 A full video playthrough of the game can also be seen [here](https://www.youtube.com/watch?v=iAP-rPcfHho) on YouTube.
 
-### Our roles on the team were as follows:
+## Our roles on the team were as follows:
 
 Freya Gade — lead programmer, Cinemachine dolly track setup and voice acting
  
