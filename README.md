@@ -2,6 +2,7 @@
 A school project that I made as part of a 6 person team over the course of 4 months. 
 It is a choice–driven branching narrative game made with Unity 2021.3.9f1, based on the all time classic choose-your-own-adventure book “The Warlock of Firetop Mountain”.
 Version control was done with Plastic SCM, but I uploaded the project here on GitHub as well, for the sake of documentation.
+A full video playthrough of the game can also be seen [here](https://www.youtube.com/watch?v=iAP-rPcfHho) on YouTube.
 
 ### Our roles on the team were as follows:
 
@@ -18,8 +19,6 @@ Maya Bordum — game and level design, Cinemachine dolly track setup, voice acti
 Frederik Stappert — project management, R&D and QA
 
 <img src="https://img.youtube.com/vi/iAP-rPcfHho/0.jpg" alt="Skeleton" width="1280" height="720">
-
-A full playthrough of the game can be seen [here](https://www.youtube.com/watch?v=iAP-rPcfHho) on YouTube.
 
 ## How to install and use
 
