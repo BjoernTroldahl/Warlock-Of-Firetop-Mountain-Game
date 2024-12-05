@@ -3,7 +3,7 @@
  Choice driven branching narrative game made with Unity 2021.3.9f1.
  Version control was done with Plastic SCM, but I have also uploaded the project here on GitHub for the sake of documentation.
 
- Our roles on the team were as follows:
+ ### Our roles on the team were as follows:
 
  Freya Gade — lead programmer, Cinemachine dolly track setup and voice acting
  
