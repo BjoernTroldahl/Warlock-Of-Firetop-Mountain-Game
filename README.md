@@ -21,7 +21,7 @@ Frederik Stappert — project management, R&D and QA
 
 <img src="https://img.youtube.com/vi/iAP-rPcfHho/0.jpg" alt="Skeleton" width="1280" height="720">
 
-## How to install and play the game
+## How to install and play the game (IMPORTANT: current build only works for Windows x64)
 
 Step 1: Download this GitHub repository as a ZIP-file and unzip it into a folder.
 
