@@ -6,8 +6,13 @@
  Our roles on the team were as follows:
 
  Freya Gade — lead programmer, Cinemachine dolly track setup and voice acting
+ 
  Bjørn Troldahl (me) — assistant programmer, Cinemachine dolly track setup, voice acting, sound designer and QA
+ 
  Julius Winther — animation, shaders, Cinemachine dolly track setup and voice acting
+ 
  Nickolai Jensen — game and level design, animation, shaders and voice acting
+ 
  Maya Bordum — game and level design, Cinemachine dolly track setup, voice acting and QA
+ 
  Frederik Stappert — project management, R&D and QA
