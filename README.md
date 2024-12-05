@@ -1,5 +1,5 @@
 # Warlock-Of-Firetop-Mountain-Game
-A school project that I made as part of a 6 person team over the course of 4 months. 
+A school project that I made as part of a 6–person team, over the course of 4 months. 
 It is a choice–driven branching narrative game made with Unity 2021.3.9f1, based on the all time classic choose-your-own-adventure book “The Warlock of Firetop Mountain”.
 Version control was done with Plastic SCM, but I uploaded the project here on GitHub as well, for the sake of documentation.
 
