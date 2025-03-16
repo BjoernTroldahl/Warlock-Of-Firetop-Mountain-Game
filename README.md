@@ -9,7 +9,7 @@ A full video playthrough of the game can also be seen [here](https://www.youtube
 
 Freya Gade — lead programmer, Cinemachine dolly track setup and voice acting
  
-Bjørn Troldahl (me) — assistant programmer, Cinemachine dolly track setup, voice acting, sound designer and QA
+Bjørn Troldahl (me) — assistant programmer, Cinemachine dolly track setup, voice acting, sound designer, QA and shaders
  
 Julius Winther — animation, shaders, Cinemachine dolly track setup and voice acting
  
